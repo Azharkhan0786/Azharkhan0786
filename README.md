@@ -50,7 +50,7 @@
 
 ---
 
-# ⚡ **Animated Snake Eating Your Contributions**
+
 
 <p align="center">
   <img src="https://github.com/Azharkhan0786/Azharkhan0786/blob/output/github-contribution-grid-snake.svg" />
@@ -82,9 +82,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Azharkhan0786/Azharkhan0786/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
