@@ -15,7 +15,6 @@
 
 ---
 
-# 🎨 **Fancy Stats Dashboard**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azharkhan0786&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
@@ -28,7 +27,6 @@
 
 ---
 
-# 🚀 **Tech Stack (Animated Icons)**
 
 ### **Languages**
 <p>
