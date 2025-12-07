@@ -1,88 +1,91 @@
-<h1 align="center">Hi 👋, I'm Azhar Khan</h1>
-<h3 align="center">A passionate IT student & future FAANG engineer 🚀</h3>
+<!-- FANCY ANIMATED README FOR AZHAR KHAN -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF0066&center=true&vCenter=true&width=550&lines=Hi+There%F0%9F%91%8B%2C+I'm+Azhar+Khan!;Full-Stack+Developer+%F0%9F%9A%80;IT+Student+%7C+FAANG+Preparation;I+Love+Building+Cool+Projects+%E2%9C%A8" />
+</h1>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 B.Tech 2nd-year IT student  
-- 💼 Preparing for **FAANG** with strong focus on **DSA + Development**  
-- 🔥 Learning Java, C, SQL, Git, and Next.js  
-- 🎯 Goal: Become a highly skilled Software Engineer  
-- 🚀 I love building real-world projects & learning new technologies  
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **About Me**
+
+💻 B.Tech IT Student · Passionate Future FAANG Engineer  
+🚀 Love building full-stack apps using Java, Next.js & PostgreSQL  
+🔥 Currently learning System Design, DSA & High-level architecture  
+🎯 Always improving myself through coding + real projects  
 
 ---
 
-## 🚀 Tech Stack & Tools
+# 🎨 **Fancy Stats Dashboard**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azharkhan0786&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azharkhan0786&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Azharkhan0786&theme=highcontrast&hide_border=true" />
+</p>
+
+---
+
+# 🚀 **Tech Stack (Animated Icons)**
 
 ### **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=java,c,js,ts" />
 </p>
 
 ### **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
-### **Backend & Databases**
+### **Backend & Database**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
 </p>
 
-### **Tools**
+### **Tools & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ **Animated Snake Eating Your Contributions**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azharkhan0786&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azharkhan0786&layout=compact&theme=radical" height="165"/>
+  <img src="https://github.com/Azharkhan0786/Azharkhan0786/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+> (Enable GitHub Actions to generate the snake — I will help you set it up)
 
 ---
 
-## 🔥 Streak Stats
+# 🏆 **Trophies & Achievements**
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Azharkhan0786&theme=highcontrast&hide_border=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Azharkhan0786&theme=darkhub&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-## 🏆 Achievements Badges
+# 💡 **Cool Animated Quote**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azharkhan0786&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Consistency+%3E+Motivation.;Great+Engineers+Are+Built+Not+Born.;Every+Day+You+Get+1%25+Better+%F0%9F%92%AA" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p>
+# 🌍 **Connect With Me**
+<p align="left">
   <a href="https://github.com/Azharkhan0786">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/GitHub-Azharkhan0786-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <!-- Add socials when ready -->
 </p>
 
 ---
 
-## ⭐ Fun Quote  
-> **"Consistency beats talent — keep going Azhar!"**
+# ⭐ **If you like my work, consider giving a star!** ⭐
 
----
 
-⭐ **If you like this profile, don't forget to give a star to my repositories!** ⭐
